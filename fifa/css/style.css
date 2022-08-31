@@ -257,3 +257,32 @@ footer p{
     font-size: 1.1rem;
 }
 }
+@media screen and (max-width:390px){
+    main{
+        height: 100%;
+    }
+    .main-text{
+        margin-bottom: 30px;
+        top:5%;
+    }
+    .img-1, .img-2{
+    height: 50%;
+    max-width: 49%;
+    
+    }
+    .img-2{
+        display: none;
+    }
+    .main-img{
+        width: 100%;
+        position: relative;
+        left: 16%;
+    }
+    .img-3{
+        height: 35%;
+        max-width: 19%;
+        position: relative;
+        right: -15%;
+        top: -150px;
+    }
+}
