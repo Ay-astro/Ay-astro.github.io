@@ -259,7 +259,7 @@ footer p{
 }
 @media screen and (max-width:390px){
     main{
-        height: 90vh;
+        height: 60vh;
     }
     .main-text{
         margin-bottom: 2px;
@@ -274,7 +274,7 @@ footer p{
         display: none;
     }
     .main-img{
-        width: 50%;
+        width:20vh ;
         position: relative;
         left: 16%;
     }
