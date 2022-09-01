@@ -262,12 +262,12 @@ footer p{
         height: 90vh;
     }
     .main-text{
-        margin-bottom: 30px;
+        margin-bottom: 2px;
         top:5%;
     }
     .img-1,{
-    height: 40%;
-    max-width: 29%;
+    height: 200px;
+    max-width: 100px;
     
     }
     .img-2{
@@ -279,8 +279,8 @@ footer p{
         left: 16%;
     }
     .img-3{
-        height: 35%;
-        max-width: 19%;
+        height: 70px;
+        max-width: 35px;
         position: relative;
         right: -15%;
         top: -150px;
