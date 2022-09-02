@@ -126,7 +126,7 @@ span {
     font-size: .5rem;
     margin-right: 20px;
 } 
-@media screen and (max-width:1380px){
+@media screen and (min-width:420px){
     .container{
         background-color:transparent;
         max-width: auto;
