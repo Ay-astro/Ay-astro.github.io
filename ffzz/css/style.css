@@ -126,9 +126,8 @@ main {
 
 footer {
     background-color: #333;
-    height: 10vh;
     display: flex;
-    padding-left: 9px;
+    padding-left: 10px;
     justify-content: center;
     align-items: center;
     width: 100%;
