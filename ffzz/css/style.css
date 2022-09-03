@@ -92,7 +92,7 @@ main{
 .img-1{
     max-width: 65%;
     display: block;
-    margin: 0 auto 20%;
+    margin: 0 auto ;
 }
 .img-3{
     max-width: 45%;
