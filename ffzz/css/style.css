@@ -87,12 +87,12 @@ main{
     justify-content: space-around;
     align-items: center;
     position: relative;
-    top: 5%;
+    top: 3%;
 }
 .img-1{
     max-width: 65%;
     display: block;
-    margin: 0 auto 60%;
+    margin: 0 auto 20%;
 }
 .img-3{
     max-width: 45%;
