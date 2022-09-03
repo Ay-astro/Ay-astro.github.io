@@ -127,10 +127,11 @@ main {
 footer {
     background-color: #333;
     display: flex;
-    padding-left: 10px;
+    padding-left: px;
     justify-content: center;
     align-items: center;
     width: 100%;
+    padding: 10px;
 
 }
 
