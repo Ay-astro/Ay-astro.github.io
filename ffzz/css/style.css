@@ -65,6 +65,7 @@ main {
     display: flex;
     flex-direction: column;
     max-width: 100%;
+    min-height: 90vh;
 
 }
 
@@ -106,7 +107,7 @@ main {
 .img-1 {
     max-width: 65%;
     display: block;
-    margin: 0 auto 15px;
+    margin: 0 auto ;
 }
 
 .img-3 {
